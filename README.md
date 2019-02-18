@@ -17,6 +17,7 @@ You can use this browser to surf the Internet securely and privately.
 3. Run **chrome.exe**
 
 Backup download site: [Chromium-Windows-73.0.3683.27.zip](http://167.99.163.129/Chromium-Windows-73.0.3683.27.zip)
+解压打开即可科学上网
 
 ## 73.0.3683.27 for macOS
 
