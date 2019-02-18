@@ -10,7 +10,7 @@ You can use this browser to surf the Internet securely and privately.
 
 ## 73.0.3683.27 for Windows 10/8/7
 
-1. Download zip file: [Chromium-Windows-73.0.3683.27.zip](https://github.com/jjqqkk/chromium/releases/download/73.0.3683.27/Chromium-Windows-73.0.3683.27.zip)
+1. Download zip file: [Chromium-Windows-73.0.3683.27.zip 百度网盘](https://pan.baidu.com/s/1f-hZCu_r3-mxuuavwCtyIA)
 
 2. Unzip it to your **Desktop**
 
